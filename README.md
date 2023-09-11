@@ -54,7 +54,8 @@ Patika-Kodluyoruz Veri yapilari ve algoritmalar eğitimi projeleri için açtı�
     - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
         **Cevap** : 
-        ![Untitled](https://github.com/fyozerdem/Patika-Kodluyoruz-Veri-yapilari-ve-algoritmalar./assets/138295010/efcfb546-d48e-4d1f-b23d-8eecde1ffc7f)
+        
+         ![Untitled](https://github.com/fyozerdem/Patika-Kodluyoruz-Veri-yapilari-ve-algoritmalar./assets/138295010/e19185ea-6e93-4810-9330-cd35ba7b6871)
 
         
     - Big-O gösterimini yazınız.
@@ -66,6 +67,7 @@ Patika-Kodluyoruz Veri yapilari ve algoritmalar eğitimi projeleri için açtı�
         
         **Cevap** :
       
-        ![Untitled2](https://github.com/fyozerdem/Patika-Kodluyoruz-Veri-yapilari-ve-algoritmalar./assets/138295010/1095e88e-7d34-4ae7-95c8-0a4945fe0c7b)
+      ![Untitled2](https://github.com/fyozerdem/Patika-Kodluyoruz-Veri-yapilari-ve-algoritmalar./assets/138295010/017338c7-3aa0-4962-b668-02c69284ed5b)
+
 
         
